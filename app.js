@@ -1,11 +1,5 @@
-const express = require('express');
-const app = express();
-
+const app = require('./utils/get-express.js');
 app.set('view engine', 'ejs');
-
-// app.get('/', (req, resp) => {
-//     resp.send('Hello World!');
-// });
 
 // ejs sempre procura em uma pasta views
 app.get('/ejs', (req, resp) => {
