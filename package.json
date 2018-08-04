@@ -1,0 +1,22 @@
+{
+  "name": "casa_do_codigo",
+  "version": "1.0.0",
+  "description": "estudo nodejs conforme o alura ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoFrancaBR/repo_estudo_node.git"
+  },
+  "author": "Rodrigo França",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoFrancaBR/repo_estudo_node/issues"
+  },
+  "homepage": "https://github.com/RodrigoFrancaBR/repo_estudo_node#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
