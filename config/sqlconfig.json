@@ -1,0 +1,17 @@
+{
+    "user": "sa",
+    "password": "ed2017",
+    "server": "BASE-PC\\SQLEXPRESS",
+    "database": "meubanco",
+    "requestTimeout": 90000,
+    "connectionTimeout": 60000,
+    "options": {
+        "encrypt": false
+    },
+    "pool": {
+        "max": 5000,
+        "min": 1,
+        "idleTimeoutMillis": 90000,
+        "acquireTimeoutMillis": 90000
+    }
+}

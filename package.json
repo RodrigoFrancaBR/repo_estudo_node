@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/RodrigoFrancaBR/repo_estudo_node#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mssql": "^4.1.0"
   }
 }
